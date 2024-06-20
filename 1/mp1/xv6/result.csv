@@ -1,0 +1,31 @@
+== Test thread package with public testcase mp1-part1-0 (5%) ==
+thread package with public testcase mp1-part1-0: OK (3.6s)
+== Test thread package with public testcase mp1-part1-1 (5%) ==
+thread package with public testcase mp1-part1-1: OK (1.0s)
+== Test thread package with public testcase mp1-part2-0 (5%) ==
+thread package with public testcase mp1-part2-0: OK (0.9s)
+== Test thread package with public testcase mp1-part2-1 (5%) ==
+thread package with public testcase mp1-part2-1: OK (1.0s)
+== Test thread package with public testcase mp1-part2-2 (5%) ==
+thread package with public testcase mp1-part2-2: OK (0.9s)
+== Test thread package with public testcase custom-1 (5%) ==
+thread package with public testcase custom-1: OK (16.9s)
+== Test thread package with public testcase custom-2 (5%) ==
+thread package with public testcase custom-2: OK (1.0s)
+== Test thread package with public testcase custom-3 (5%) ==
+thread package with public testcase custom-3: OK (1.0s)
+== Test thread package with public testcase custom-4 (5%) ==
+thread package with public testcase custom-4: OK (2.1s)
+== Test thread package with public testcase custom-5 (5%) ==
+thread package with public testcase custom-5: OK (2.7s)
+== Test thread package with public testcase custom-6 (5%) ==
+thread package with public testcase custom-6: OK (2.8s)
+== Test thread package with public testcase custom-7 (5%) ==
+thread package with public testcase custom-7: OK (2.8s)
+== Test thread package with public testcase custom-8 (5%) ==
+thread package with public testcase custom-8: OK (1.0s)
+== Test thread package with public testcase custom-9 (5%) ==
+thread package with public testcase custom-9: OK (9.9s)
+== Test thread package with public testcase custom-10 (5%) ==
+thread package with public testcase custom-10: OK (2.0s)
+Score: 75/75
